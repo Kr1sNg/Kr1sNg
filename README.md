@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👋 Hey, I’m <strong>Tat Hoang</strong> (<i>Chris</i>) from [<b>@42Born2code</b>](https://github.com/42School) <br>🔭 I’m currently working on <i>C Programming</i><br>👀 I’m interested in IT, Business, Design and Languages<br>💞️ I’m looking to collaborate on every IT project for junior developer<br>📫 Reach me at kris.tathoang@gmail.com<br>⚡ Fun fact: I'm a <i>cat-lover</i> 😻 (not really funny but it's a fact)
+👋 Hey, I’m <strong>Tat Hoang</strong> (<i>Chris</i>) from [<b>@42Born2code</b>](https://github.com/42School) <br>🔭 I’m currently working on projects of <i>C Programming</i><br>👀 I’m interested in IT, Business, Design and Languages<br>💞️ I’m looking to collaborate on every IT project for junior developer<br>📫 Reach me at kris.tathoang@gmail.com<br>⚡ Fun fact: I'm a <i>cat-lover</i> 😻 (not really funny but it's a fact)
 
 
 ## 🌐 Socials:
