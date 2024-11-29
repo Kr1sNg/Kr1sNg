@@ -28,7 +28,7 @@
 
 ---
 
-## 💻&ensp;42 Projects
+## 💻&ensp;42's Projects
 <p align="center">
   <a href="https://github.com/Kr1sNg/42cursus-Libft">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp" /></a>
