@@ -1,7 +1,7 @@
 ## 💫&ensp;About Me
-👋 Hey, I’m <strong>Tat Hoang</strong> (<i>Chris</i>) from [<b>@42Born2code</b>](https://github.com/42School) <br>
-👀 I’m interested in IT, Business, Design and Languages<br>
-💞️ I’m looking to collaborate on every IT project for junior developer<br>
+- 👋 Hey, I’m <strong>Tat Hoang</strong> (<i>Chris</i>) from [<b>@42Born2code</b>](https://github.com/42School) <br>
+- 👀 I’m interested in IT, Business, Design and Languages<br>
+- 💞️ I’m looking to collaborate on every IT project for junior developer<br>
 
 ### 🌐&ensp;Contact
 <p align="center">
