@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30" />
   </a>
 </p>
-<br>
 
 ### 🛠️&ensp;Skills & Tools
 <p align="center">
