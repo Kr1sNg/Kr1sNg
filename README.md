@@ -1,20 +1,28 @@
-## 💫&ensp;About Me
-- 👋 Hey, I’m <strong>Tat Hoang</strong> (<i>Chris</i>) from [<b>@42Born2code</b>](https://github.com/42School) <br>
-- 👀 I’m interested in IT, Business, Design and Languages<br>
-- 💞️ I’m looking to collaborate on every IT project for junior developer<br>
+## 👨‍💻&ensp;About Me
+- 🏫&ensp;I’m <strong>Tat Hoang</strong> (<i>Chris</i>) from [<b>@42Born2code</b>](https://github.com/42School) <br>
+- 💞️&ensp;I have a strong passion for Technology, Business, Design and Languages<br>
+- 👋&ensp;I look for any collaboration in every IT projects<br>
 
-### 🌐&ensp;Contact
+### 📬&ensp;Contact
 <p align="center">
   <a href="https://linkedin.com/in/ngtathoang">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&ensp;
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>&nbsp;
   <a href="mailto:ngtathoang@gmail.com?subject=Hello%20Tat%20Hoang,%20from%20Github">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>&nbsp;
   <a href="https://instagram.com/tat.hoang">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" height="30" /></a>&nbsp;
   <a href="https://facebook.com/piq.k0olz">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" /></a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" height="30" /></a>&nbsp;
   <a href="https://medium.com/@Kr1sNg">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30" />
+  </a>
+</p>
+<br>
+
+### 🛠️&ensp;Skills & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bash,c,py,r,sqlite,vim,vscode" />
   </a>
 </p>
 <br>
@@ -32,6 +40,17 @@
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp" /></a>  
 </p>
 <br><br>
+
+### ⌨️&ensp;Training
+<p align="center">
+  <a href="https://www.codewars.com/users/Kr1sNg">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height="30" /></a>&nbsp;
+  <a href="https://www.hackerrank.com/profile/Kr1sNg">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30" /></a>&nbsp;
+  <a href="https://leetcode.com/u/Kr1sNg/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="30" /></a>
+</p>
+<br>
 
 ---
 
