@@ -41,7 +41,7 @@
 </p>
 <br><br>
 
-### ⌨️&ensp;Training
+### 🏆&ensp;Training
 <p align="center">
   <a href="https://www.codewars.com/users/Kr1sNg">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height="30" /></a>&nbsp;
@@ -54,7 +54,7 @@
 
 ---
 
-## 📊&ensp;GitHub Stats
+## 📚&ensp;GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Kr1sNg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kr1sNg&theme=tokyonight&hide_border=false" height="150" />
