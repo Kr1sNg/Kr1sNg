@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/ngtathoang">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&ensp;
-  <a href="mailto:ngtathoang@gmail.com?subject=Hello%20Chris,%20From%20Github">
+  <a href="mailto:ngtathoang@gmail.com?subject=Hello%20Tat%20Hoang,%20from%20Github">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://instagram.com/tat.hoang">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;
