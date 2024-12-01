@@ -1,7 +1,7 @@
 ## 👨‍💻&ensp;About Me
 - 🏫&ensp;I’m <strong>Tat Hoang</strong> (<i>Chris</i>) from [<b>@42Born2code</b>](https://github.com/42School) <br>
 - 💞️&ensp;I have a strong passion for Technology, Business, Design and Languages<br>
-- 👋&ensp;I look for any collaboration in every IT projects<br>
+- 👋&ensp;I look forward to any collaboration in every IT project <br>
 
 ### 📬&ensp;Contact
 <p align="center">
@@ -34,7 +34,8 @@
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp" /></a>
   <a href="https://github.com/Kr1sNg/42cursus-ft_printf">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf_bonus_max.webp" /></a>
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp" />
+  <a href="https://medium.com/@Kr1sNg/were-we-born2beroot-6fe99898de07">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp" /></a>
   <a href="https://github.com/Kr1sNg/42cursus-get_next_line">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp" /></a>  
 </p>
