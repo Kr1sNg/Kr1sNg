@@ -9,10 +9,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>&nbsp;
   <a href="mailto:ngtathoang@gmail.com?subject=Hello%20Tat%20Hoang,%20from%20Github">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>&nbsp;
+  <a href="https://wa.me/+33622862262?text=Hello%20Tat%20Hoang,%20from%20Github">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" height="30" /></a>&nbsp;
+  <a href="https://discord.com/users/kr1sng">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" height="30" /></a>&nbsp;
   <a href="https://instagram.com/tat.hoang">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" height="30" /></a>&nbsp;
-  <a href="https://facebook.com/piq.k0olz">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" height="30" /></a>&nbsp;
   <a href="https://medium.com/@Kr1sNg">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30" />
   </a>
