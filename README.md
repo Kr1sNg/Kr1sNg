@@ -39,7 +39,9 @@
   <a href="https://medium.com/@Kr1sNg/were-we-born2beroot-6fe99898de07">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp" /></a>
   <a href="https://github.com/Kr1sNg/42cursus-get_next_line">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp" /></a>  
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp" /></a>
+  <a href="https://github.com/Kr1sNg/42cursus-minitalk">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk_bonus_max.webp" /></a>
 </p>
 <br><br>
 
