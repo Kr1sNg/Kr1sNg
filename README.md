@@ -42,6 +42,8 @@
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp" /></a>
   <a href="https://github.com/Kr1sNg/42cursus-minitalk">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk_bonus_max.webp" /></a>
+  <a href="https://github.com/Kr1sNg/42cursus-push_swap">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap_bonus_max.webp" /></a>
 </p>
 <br><br>
 
