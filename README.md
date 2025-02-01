@@ -72,7 +72,8 @@
 
 ---
 <p align="right">
-<img src="https://visitcount.itsvg.in/api?id=Kr1sNg&icon=9&color=3" />
+<img src="https://komarev.com/ghpvc/?username=Kr1sNg&color=green&style=flat-square&base=10000" />
+</p>
 
 <!---
 Kr1sNg/Kr1sNg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
