@@ -1,7 +1,8 @@
 ## 👨‍💻&ensp;About Me
-- 🏫&ensp;I’m <strong>Tat Hoang</strong> (<i>Chris</i>) from [<b>@42Born2code</b>](https://github.com/42School) <br>
-- 💞️&ensp;I have a strong passion for Technology, Business, Design and Languages<br>
-- 👋&ensp;I look forward to any collaboration in every IT project <br>
+- 🏫&ensp; My name is <strong>Tat Hoang</strong> (<i>Chris</i>) from [<b>@42Born2code</b>](https://github.com/42School) <br>
+- 💞️&ensp; with a strong passion for Technology, Business, Design and Languages <br>
+- 🎯&ensp; I would like to participate in any project for junior IT developer <br>
+- 👋&ensp; Feel free to contact me 👇 <br>
 
 ### 📬&ensp;Contact
 <p align="center">
