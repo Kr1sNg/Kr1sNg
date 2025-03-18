@@ -47,6 +47,8 @@
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap_bonus_max.webp" /></a>
   <a href="https://github.com/Kr1sNg/42cursus-so_long">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/so_long_bonus.webp" /></a>
+  <a href="https://github.com/Kr1sNg/42cursus-Minishell">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell_bonus_max.webp" /></a>
 </p>
 <br><br>
 
