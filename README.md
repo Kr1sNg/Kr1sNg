@@ -54,12 +54,13 @@
 
 ### 🏆&ensp;Training
 <p align="center">
+  <a href="https://www.codingame.com/profile/df8b7b1f2322234508285e3b3dc207e80943546"><img src="https://img.shields.io/badge/CodinGame-yellow?style=for-the-badge&logo=CodinGame&logoColor=white" height="30" /></a>&nbsp;
+  <a href="https://leetcode.com/u/Kr1sNg/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="30" /></a>&nbsp;
   <a href="https://www.codewars.com/users/Kr1sNg">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height="30" /></a>&nbsp;
   <a href="https://www.hackerrank.com/profile/Kr1sNg">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30" /></a>&nbsp;
-  <a href="https://leetcode.com/u/Kr1sNg/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="30" /></a>
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30" /></a>
 </p>
 <br>
 
