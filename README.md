@@ -55,6 +55,8 @@
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/philosophers_bonus.webp" /></a>
   <a href="https://medium.com/@Kr1sNg/practice-on-the-subject-of-networking-7cb006bde901">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/netpractice_bonus.webp" /></a>
+  <a href="https://github.com/Kr1sNg/42cursus-cub3D">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d_bonus.webp" /></a>
 </p>
 <br><br>
 
