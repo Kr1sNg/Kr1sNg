@@ -6,16 +6,14 @@
 
 ### 📬&ensp;Contact
 <p align="center">
+  <a href="https://app.box.com/s/p0xu4ldfr51fbb1lvjifgsk9vm34ze7n">
+    <img src="https://img.shields.io/badge/-my resume-black?style=for-the-badge&logo=42&logoColor=white" height="35" /></a>&nbsp;
   <a href="https://linkedin.com/in/ngtathoang">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>&nbsp;
   <a href="mailto:ngtathoang@gmail.com?subject=Hello%20Tat%20Hoang,%20from%20Github">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>&nbsp;
   <a href="https://wa.me/+33622862262?text=Hello%20Tat%20Hoang,%20from%20Github">
     <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" height="35" /></a>&nbsp;
-  <a href="https://discord.com/users/1243600723661426699">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" height="35" /></a>&nbsp;
-  <a href="https://instagram.com/tat.hoang">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" height="35" /></a>&nbsp;
   <a href="https://medium.com/@Kr1sNg">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35" />
   </a>
@@ -24,7 +22,7 @@
 ### 🛠️&ensp;Skills & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,c,py,r,sqlite,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,bash,c,cpp,py,r,sqlite,md,vim,vscode,docker" />
   </a>
 </p>
 <br>
@@ -62,7 +60,10 @@
 
 ### 🏆&ensp;Training
 <p align="center">
-  <a href="https://www.codingame.com/profile/df8b7b1f2322234508285e3b3dc207e80943546"><img src="https://img.shields.io/badge/CodinGame-yellow?style=for-the-badge&logo=CodinGame&logoColor=white" height="30" /></a>&nbsp;
+  <a href="https://kr1sng.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge" height="30" /></a>&nbsp;
+  <a href="https://www.codingame.com/profile/df8b7b1f2322234508285e3b3dc207e80943546">
+    <img src="https://img.shields.io/badge/CodinGame-yellow?style=for-the-badge&logo=CodinGame&logoColor=white" height="30" /></a>&nbsp;
   <a href="https://leetcode.com/u/Kr1sNg/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="30" /></a>&nbsp;
   <a href="https://www.codewars.com/users/Kr1sNg">
