@@ -22,7 +22,9 @@
 ### 🛠️&ensp;Skills & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,c,cpp,py,r,sqlite,md,vim,vscode,docker" />
+    <img src="https://skillicons.dev/icons?i=git,bash,c,cpp,py,r" /></a> <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,md,vim,vscode,docker"/>
   </a>
 </p>
 <br>
