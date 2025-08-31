@@ -63,7 +63,7 @@
 ### 🏆&ensp;Training
 <p align="center">
   <a href="https://kr1sng.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/My Portfolio-%23000000.svg?style=for-the-badge" style="height:38px" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/My Portfolio-%23000000.svg?style=for-the-badge&logo=42&logoColor=white" style="height:38px" /></a>&nbsp;
   <a href="https://www.codingame.com/profile/df8b7b1f2322234508285e3b3dc207e80943546">
     <img src="https://img.shields.io/badge/CodinGame-yellow?style=for-the-badge&logo=CodinGame&logoColor=white" style="height:38px" /></a>&nbsp;
   <a href="https://leetcode.com/u/Kr1sNg/">
