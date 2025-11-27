@@ -1,8 +1,8 @@
 ## 👨‍💻&ensp;About Me
 - 🏫&ensp; My name is <strong>Tat Hoang</strong> (<i>Chris</i>) from [<b>@42Born2code</b>](https://github.com/42School) <br>
 - 💞️&ensp; with a strong passion for Technology, Business, Design and Languages <br>
-- 🎯&ensp; I would like to participate in any project for junior IT developer <br>
-- 👋&ensp; Feel free to connect 👇 <br>
+- 🎯&ensp; I'm looking for a <strong>6-month internship</strong> in Software Engineer / Web Development <br>
+- 👋&ensp; My CV is available below for more details 👇 <br>
 
 ### 📬&ensp;Contact
 <p align="center">
