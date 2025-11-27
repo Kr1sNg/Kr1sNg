@@ -57,6 +57,10 @@
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/netpractice_bonus.webp" /></a>
   <a href="https://github.com/Kr1sNg/42cursus-cub3D">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d_bonus.webp" /></a>
+  <a href="https://github.com/Kr1sNg/42cursus-Inception">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/inception_bonus.webp" /></a>
+  <a href="https://github.com/Kr1sNg/42cursus-webserv">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/webserv_bonus.webp" /></a>
 </p>
 <br><br>
 
