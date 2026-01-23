@@ -1,12 +1,12 @@
-## 👨‍💻&ensp;About Me
+## 👨‍💻&ensp;42's student available for internship or alternance opportunities
 - 🏫&ensp; My name is <strong>Tat Hoang</strong> (<i>Chris</i>) from [<b>@42Born2code</b>](https://github.com/42School) <br>
 - 💞️&ensp; with a strong passion for Technology, Business, Design and Languages <br>
-- 🎯&ensp; I'm looking for a <strong>6-month internship</strong> in Software Engineer / Web Development <br>
+- 🎯&ensp; I'm looking for a <strong>6-month internship</strong> or <strong>2-year alternance</strong> in Web / Application Development <br>
 - 👋&ensp; My CV is available below for more details 👇 <br>
 
 ### 📬&ensp;Contact
 <p align="center">
-  <a href="https://app.box.com/s/p0xu4ldfr51fbb1lvjifgsk9vm34ze7n">
+  <a href="https://app.box.com/s/nlcrap2hdb1r5mrrjk7k6c7yk73w6wgm">
     <img src="https://img.shields.io/badge/-my resume-black?style=for-the-badge&logo=42&logoColor=white" style="height:38px" /></a>&nbsp;
   <a href="https://linkedin.com/in/ngtathoang">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="height:38px" /></a>&nbsp;
@@ -22,9 +22,9 @@
 ### 🛠️&ensp;Skills & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,c,cpp,py,r" /></a> <br>
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,py,js,typescript" /></a> <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,md,vim,vscode,docker"/>
+    <img src="https://skillicons.dev/icons?i=docker,git,md,vim,vscode,sqlite,react"/>
   </a>
 </p>
 <br>
@@ -61,6 +61,8 @@
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/inception_bonus.webp" /></a>
   <a href="https://github.com/Kr1sNg/42cursus-webserv">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/webserv_bonus.webp" /></a>
+  <a href="https://github.com/Kr1sNg/42cursus-ft_transcendence">
+    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_transcendence_bonus.webp" /></a>
 </p>
 <br><br>
 
