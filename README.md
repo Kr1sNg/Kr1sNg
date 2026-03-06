@@ -1,5 +1,5 @@
 ## 👨‍💻&ensp;42's student available for a 2-year alternance opportunity
-- 🏫&ensp; My name is <strong>Tat Hoang</strong> (<i>Chris</i>) from [<b>@42Born2code</b>](https://github.com/42School) <br>
+- 🏫&ensp; My name is <strong>Tat Hoang</strong> (<i>Chris</i>) from [<b>@42 BEYOND THE CODE</b>](https://github.com/42School) <br>
 - 💞️&ensp; with a strong passion for Technology, Business, Design and Languages <br>
 - 🎯&ensp; I'm looking for a <strong>2-year alternance</strong> in **Web / Application Development** from Oct-Nov 2026 <br>
 - 👋&ensp; My CV is available below for more details 👇 <br>
