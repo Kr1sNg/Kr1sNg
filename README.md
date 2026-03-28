@@ -1,5 +1,5 @@
 ## 👨‍💻&ensp;42's student Seeking a 2-Year Apprenticeship Oct-2026
-- 🏫&ensp; My name is <strong>Tat Hoang</strong> (<i>Chris</i>) from [<b>@42 BEYOND THE CODE</b>](https://github.com/42School) <br>
+- 🏫&ensp; My name is <strong>Tat Hoang</strong> (<i>Chris</i>) from [<b>@42 BEYOND THE CODE</b>](https://42.fr/) <br>
 - 💞️&ensp; with a strong passion for Technology, Business, Design and Languages <br>
 - 🎯&ensp; I'm looking for a <strong>2-year apprenticeship</strong> in **Web / Application Development** starting in Oct 2026 <br>
 - 👋&ensp; My CV is available below for more details 👇 <br>
