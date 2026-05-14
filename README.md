@@ -74,10 +74,8 @@
     <img src="https://img.shields.io/badge/CodinGame-yellow?style=for-the-badge&logo=CodinGame&logoColor=white" style="height:38px" /></a>&nbsp;
   <a href="https://leetcode.com/u/Kr1sNg/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" style="height:38px" /></a>&nbsp;
-  <a href="https://www.codewars.com/users/Kr1sNg">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" style="height:38px" /></a>&nbsp;
-  <a href="https://www.hackerrank.com/profile/Kr1sNg">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="height:38px" /></a>
+  <a href="https://cses.fi/problemset/user/343981">
+    <img src="https://img.shields.io/badge/CSES-green?style=for-the-badge&logo=readme&logoColor=white" style="height:38px" /></a>&nbsp;
 </p>
 <br>
 
