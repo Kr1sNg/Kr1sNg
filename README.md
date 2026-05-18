@@ -23,9 +23,13 @@
 ### 🛠️&ensp;Skills & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,py,js,typescript" /></a> <br>
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,r,py,js,typescript,css,html" /></a><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,md,vim,vscode,sqlite,react"/>
+    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,apple,windows,aws,wordpress,github" /></a><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,npm,vite,react,tailwind,express,nestjs,prisma,mysql,mongodb" /></a><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vim,md,regex,vscode,sqlite,docker,prometheus,grafana,nginx,postman" />
   </a>
 </p>
 
