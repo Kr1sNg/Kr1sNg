@@ -2,21 +2,21 @@
 - 🏫&ensp; My name is <strong>Tat Hoang</strong> (<i>Chris</i>) from [<b>@42 BEYOND THE CODE</b>](https://42.fr/) <br>
 - 💞️&ensp; with a strong passion for Technology, Business, Design and Languages <br>
 - 🎯&ensp; I'm looking for a <strong>2-year apprenticeship</strong> in **Full-stack Development / DevOps** starting in Septembre 2026 <br>
-- 👋&ensp; My CV is available below for more details 👇 <br>
+- 👋&ensp; My CV is available below for more details 👇
 <br />
 
 ### 📬&ensp;Contact
 <p align="center">
   <a href="https://app.box.com/s/nlcrap2hdb1r5mrrjk7k6c7yk73w6wgm">
-    <img src="https://img.shields.io/badge/-my resume-black?style=for-the-badge&logo=42&logoColor=white" style="height:38px" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/-my resume-black?style=for-the-badge&logo=42&logoColor=white" style="height:40px" /></a>&nbsp;
   <a href="https://linkedin.com/in/ngtathoang">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K&logoColor=white" style="height:38px" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K&logoColor=white" style="height:40px" /></a>&nbsp;
   <a href="mailto:ngtathoang@gmail.com?subject=Hello%20Tat%20Hoang,%20from%20Github">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" style="height:38px" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" style="height:40px" /></a>&nbsp;
   <a href="https://wa.me/+33622862262?text=Hello%20Tat%20Hoang,%20from%20Github">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" style="height:38px" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" style="height:40px" /></a>&nbsp;
   <a href="https://medium.com/@Kr1sNg">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="height:38px" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="height:40px" />
   </a>
 </p>
 
@@ -36,15 +36,15 @@
 ### 🏆&ensp;Training & Certifications
 <p align="center">
   <a href="https://kr1sng.github.io/">
-    <img src="https://img.shields.io/badge/My Portfolio-darkgreen?style=for-the-badge&logo=42&logoColor=white" style="height:38px" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/My Portfolio-darkgreen?style=for-the-badge&logo=42&logoColor=white" style="height:40px" /></a>&nbsp;
   <a href="https://www.credly.com/users/ngtathoang">
-    <img src="https://img.shields.io/badge/Credly-orange?style=for-the-badge&logo=credly&logoColor=white" style="height:38px" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/Credly-orange?style=for-the-badge&logo=credly&logoColor=white" style="height:40px" /></a>&nbsp;
   <a href="https://www.codingame.com/profile/df8b7b1f2322234508285e3b3dc207e80943546">
-    <img src="https://img.shields.io/badge/CodinGame-yellow?style=for-the-badge&logo=CodinGame&logoColor=white" style="height:38px" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/CodinGame-yellow?style=for-the-badge&logo=CodinGame&logoColor=white" style="height:40px" /></a>&nbsp;
   <a href="https://leetcode.com/u/Kr1sNg/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" style="height:38px" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" style="height:40px" /></a>&nbsp;
   <a href="https://cses.fi/problemset/user/343981">
-    <img src="https://img.shields.io/badge/CSES-gray?style=for-the-badge&logo=readme&logoColor=white" style="height:38px" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/CSES-43464B?style=for-the-badge&logo=readme&logoColor=white" style="height:40px" /></a>
 </p>
 <br>
 
@@ -87,17 +87,17 @@
 
 ---
 
-## 📚&ensp;GitHub Stats
+## 📊&ensp;Github Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr1sNg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kr1sNg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kr1sNg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kr1sNg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kr1sNg&theme=tokyonight&hide_border=false" height="150" />
 </p>
 <br>
 
 ---
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=Kr1sNg&color=green&style=flat-square&base=10000" />
+<img src="https://komarev.com/ghpvc/?username=Kr1sNg&color=006400&style=flat-square&base=424242" style="height:25px" />
 </p>
 
 <!---
